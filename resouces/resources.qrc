@@ -287,5 +287,7 @@
     <file>icons/zap-off.svg</file>
     <file>icons/zoom-in.svg</file>
   </qresource>
-  <qresource prefix="images"/>
+  <qresource prefix="images">
+    <file>icon.ico</file>
+  </qresource>
 </RCC>
